@@ -1,0 +1,7 @@
+# ninja log v6
+5	391	1739435881275542264	CMakeFiles/MagicSquar.dir/vernam.cpp.o	20e661697f6ee88c
+0	38	1740725841812921989	build.ninja	e37975b9433386bc
+0	375	1739351285521763125	CMakeFiles/MagicSquar.dir/magics.cpp.o	8524f3b3e6ab9d3e
+19	546	1739435004640510195	CMakeFiles/MagicSquar.dir/vijener.cpp.o	807b2de60ffc67c2
+391	423	1739435881661163295	MagicSquar	5bf21c6b2fac2508
+6	314	1739349761771197334	CMakeFiles/MagicSquar.dir/magics5.cpp.o	387d46f8a6ee7116

@@ -1,0 +1,3 @@
+/Users/cote/Documents/Лабы/Крипта Ахматов/MagicSquar/cmake-build-debug/CMakeFiles/MagicSquar.dir
+/Users/cote/Documents/Лабы/Крипта Ахматов/MagicSquar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cote/Documents/Лабы/Крипта Ахматов/MagicSquar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
